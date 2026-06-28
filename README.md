@@ -1,14 +1,19 @@
 <h1 align="center">Hi 👋, I'm Shubham Ubale</h1>
-<h3 align="center">A Passionate Full Stack Developer from India 🇮🇳</h3>
+<h3 align="center">Full Stack Developer · AI-Powered Web Apps · Final Year B.E. IT @ SPPU, Pune 🇮🇳</h3>
+<p align="center">
+  🔍 Actively seeking <strong>SDE / Full Stack Developer</strong> roles — open to opportunities across India
+</p>
 
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Final Year B.E. Information Technology Student
-- 🌱 Currently learning **React, Next.js, TypeScript, DSA in Java**
-- 💻 Interested in **Full Stack Development, AI-powered Web Applications, and Software Engineering**
+- 🎓 Final Year **B.E. Information Technology** @ Dhole Patil College of Engineering, Pune (SPPU)
+- 🚀 Built and **published OptiFit AI** in two international research journals (IJSRET & TIJER)
+- 🌱 Currently sharpening skills in **React, Next.js, TypeScript, DSA in Java**
+- 💻 Passionate about **Full Stack Development, AI-powered Web Applications, and Software Engineering**
+- 👯 Led a **5-member project team** delivering a production-grade AI fitness platform
 - 🚀 Built projects like **OptiFit AI**, **Wanderlust**, Weather App, and Redux Todo App
 - 👯 Looking for **Software Development Engineer (SDE) / Full Stack Developer** opportunities
 - 💬 Ask me about **JavaScript, React, Node.js, Express.js, MongoDB, SQL, Java**
@@ -16,19 +21,44 @@
 
 ---
 
-## 🚀 Featured Projects
+### 🏋️ [OptiFit AI](https://github.com/shubham-ubale/optifit-ai) &nbsp;·&nbsp; *Published in IJSRET & TIJER*
 
-### 🏋️ OptiFit AI
-AI-powered fitness assistant built using Next.js, React, Tailwind CSS, Clerk Authentication, Convex Database, and AI integration for personalized workout and diet plans.
+> Voice-based AI fitness and diet planner — led a 5-member team from idea to publication.
 
-### 🌍 Wanderlust
-A full-stack travel accommodation booking platform with authentication, property listings, image uploads, reviews, and responsive UI.
+**Stack:** Next.js 14 · React · Tailwind CSS · Convex · Vapi · NVIDIA NIM API · Clerk · Vercel
 
-### 🌦️ Weather App
-React application that displays real-time weather information using a weather API.
+- 🎙️ Voice-driven AI assistant generates personalized workout & diet plans
+- 📄 Research published in **IJSRET** and **TIJER** — international peer-reviewed journals
+- 🔐 Secure auth via Clerk · real-time DB via Convex · deployed on Vercel
 
-### ✅ Redux Todo App
-A simple task management application built to learn Redux Toolkit and state management.
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://optifit-ai.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/shubham-ubale/optifit-ai)
+[![IJSRET](https://img.shields.io/badge/Published-IJSRET-blue?style=flat-square)](https://ijsret.com)
+[![TIJER](https://img.shields.io/badge/Published-TIJER-blue?style=flat-square)](https://tijer.org)
+
+---
+
+### 🌍 [Wanderlust](https://github.com/shubham-ubale/wanderlust) &nbsp;·&nbsp; *Full Stack Travel Platform*
+
+> Travel accommodation booking platform with end-to-end features.
+
+**Stack:** MongoDB · Express.js · Node.js · EJS · Cloudinary · Passport.js · Bootstrap
+
+- 🔐 Authentication & authorization (Passport.js)
+- 🖼️ Property image uploads via Cloudinary
+- ⭐ Review and rating system · fully responsive UI
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/shubham-ubale/wanderlust)
+
+---
+
+### 🌦️ [Weather App](https://github.com/shubham-ubale/weather-app) &nbsp;·&nbsp; *React · OpenWeather API*
+
+Real-time weather lookup by city with live API integration and clean responsive UI.
+
+### ✅ [Redux Todo App](https://github.com/shubham-ubale/redux-todo) &nbsp;·&nbsp; *React · Redux Toolkit*
+
+Task management app built to master Redux state management patterns.
 
 ---
 
