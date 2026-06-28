@@ -14,8 +14,6 @@
 - 🌱 Currently sharpening skills in **React, Next.js, TypeScript, DSA in Java**
 - 💻 Passionate about **Full Stack Development, AI-powered Web Applications, and Software Engineering**
 - 👯 Led a **5-member project team** delivering a production-grade AI fitness platform
-- 🚀 Built projects like **OptiFit AI**, **Wanderlust**, Weather App, and Redux Todo App
-- 👯 Looking for **Software Development Engineer (SDE) / Full Stack Developer** opportunities
 - 💬 Ask me about **JavaScript, React, Node.js, Express.js, MongoDB, SQL, Java**
 - 📫 Reach me at: **shubhamubale444@gmail.com**
 
