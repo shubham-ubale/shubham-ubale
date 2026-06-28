@@ -104,7 +104,7 @@ Task management app built to master Redux state management patterns.
 </a>
 &nbsp;
 <a href="mailto:shubhamubale444@gmail.com">
-  <img src="file:///C:/Users/Shubham/Downloads/Gmail-Dark%20(1).svg" alt="Gmail" height="45"/>
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="45"/>
 </a>
 </p>
 
