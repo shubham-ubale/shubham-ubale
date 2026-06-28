@@ -18,7 +18,7 @@
 - 📫 Reach me at: **shubhamubale444@gmail.com**
 
 ---
-
+## 🚀 Featured Projects
 ### 🏋️ [OptiFit AI](https://github.com/shubham-ubale/optifit-ai) &nbsp;·&nbsp; *Published in IJSRET & TIJER*
 
 > Voice-based AI fitness and diet planner — led a 5-member team from idea to publication.
@@ -53,6 +53,8 @@
 ### 🌦️ [Weather App](https://github.com/shubham-ubale/weather-app) &nbsp;·&nbsp; *React · OpenWeather API*
 
 Real-time weather lookup by city with live API integration and clean responsive UI.
+
+---
 
 ### ✅ [Redux Todo App](https://github.com/shubham-ubale/redux-todo) &nbsp;·&nbsp; *React · Redux Toolkit*
 
