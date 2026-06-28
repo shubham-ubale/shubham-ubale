@@ -61,27 +61,32 @@ Real-time weather lookup by city with live API integration and clean responsive 
 Task management app built to master Redux state management patterns.
 
 ---
+## 🏆 Certifications
+
+| Certificate | Issuer | Year |
+|---|---|---|
+| Full Stack Web Development | Apna College | 2024 |
+| Web Development Fundamentals | IBM SkillsBuild | 2024 |
+| AI/ML Fundamentals | TNS Foundation | 2024 |
 
 ## 🛠️ Languages & Tools
 
 <p align="left">
-
 <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,nodejs,express,mongodb,mysql,java,git,github,tailwind,bootstrap,vscode,vercel" />
-
 </p>
+
+**Also worked with:** Convex · Vapi · NVIDIA NIM API · Clerk · Redux Toolkit · Cloudinary · Passport.js
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shubham-ubale&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-ubale&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-ubale&layout=compact&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=shubham-ubale&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-ubale&theme=tokyonight" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-ubale&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -89,15 +94,17 @@ Task management app built to master Redux state management patterns.
 ## 🌐 Connect With Me
 
 <p align="left">
-
-<a href="https://www.linkedin.com/in/shubham-ubale/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+<a href="https://www.linkedin.com/in/shubham-ubale/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
 </a>
-
-<a href="https://github.com/shubham-ubale">
-<img src="https://skillicons.dev/icons?i=github" width="45"/>
+&nbsp;
+<a href="https://github.com/shubham-ubale" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/>
 </a>
-
+&nbsp;
+<a href="mailto:shubhamubale444@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="45"/>
+</a>
 </p>
 
 ---
@@ -110,4 +117,7 @@ Task management app built to master Redux state management patterns.
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+<p align="center">
+  ⭐ <em>Thanks for visiting! Feel free to explore my repositories and connect with me.</em><br/>
+  <strong>Open to full-time SDE / Full Stack roles — let's build something great together.</strong>
+</p>
