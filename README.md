@@ -104,16 +104,9 @@ Task management app built to master Redux state management patterns.
 </a>
 &nbsp;
 <a href="mailto:shubhamubale444@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="45"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="Gmail" height="45"/>
 </a>
 </p>
-<a href="https://www.geeksforgeeks.org/profile/shubhamubale" target="_blank">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG" height="45"/>
-</a>
-&nbsp;
-<a href="https://leetcode.com/u/shubham_ubale/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" height="45"/>
-</a>
 
 ---
 
