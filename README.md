@@ -74,8 +74,6 @@ A simple task management application built to learn Redux Toolkit and state mana
 
 ## 🐍 Contribution Snake
 
-<h2 align="left">🐍 Contribution Snake</h2>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/shubham-ubale/shubham-ubale/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
