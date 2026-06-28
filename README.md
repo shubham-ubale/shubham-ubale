@@ -70,6 +70,7 @@ Task management app built to master Redux state management patterns.
 | Web Development Fundamentals | IBM SkillsBuild | 2026 |
 | AI/ML Fundamentals | TNS Foundation | 2026 |
 
+---
 ## 🛠️ Languages & Tools
 
 <p align="left">
