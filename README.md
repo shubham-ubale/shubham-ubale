@@ -65,9 +65,10 @@ Task management app built to master Redux state management patterns.
 
 | Certificate | Issuer | Year |
 |---|---|---|
-| Full Stack Web Development | Apna College | 2024 |
-| Web Development Fundamentals | IBM SkillsBuild | 2024 |
-| AI/ML Fundamentals | TNS Foundation | 2024 |
+| Full Stack Web Development | Apna College | 2026 |
+| DSA with Java | Apna College | 2026 |
+| Web Development Fundamentals | IBM SkillsBuild | 2026 |
+| AI/ML Fundamentals | TNS Foundation | 2026 |
 
 ## 🛠️ Languages & Tools
 
@@ -106,6 +107,13 @@ Task management app built to master Redux state management patterns.
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="45"/>
 </a>
 </p>
+<a href="https://www.geeksforgeeks.org/profile/shubhamubale" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG" height="45"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/shubham_ubale/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" height="45"/>
+</a>
 
 ---
 
