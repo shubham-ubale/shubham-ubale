@@ -2,6 +2,15 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Java+Developer;AI-Powered+Web+Application+Developer;Open+to+SDE+%7C+Software+Engineer+Roles" />
 </p>
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=shubham-ubale&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+<img src="https://img.shields.io/github/followers/shubham-ubale?label=Followers&style=social"/>
+
+<img src="https://img.shields.io/github/stars/shubham-ubale?affiliations=OWNER&style=social"/>
+
+</p>
 <h3 align="center">Full Stack Developer · AI-Powered Web Apps · Final Year B.E. IT @ SPPU, Pune 🇮🇳</h3>
 <p align="center">
   🔍 Actively seeking <strong>SDE / Full Stack Developer</strong> roles — open to opportunities across India
@@ -76,7 +85,7 @@ Task management app built to master Redux state management patterns.
 ---
 ## 🛠️ Languages & Tools
 
-<p align="left">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,nodejs,express,mongodb,mysql,java,git,github,tailwind,bootstrap,vscode,vercel" />
 </p>
 
