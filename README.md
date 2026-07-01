@@ -62,13 +62,13 @@
 
 ---
 
-### 🌦️ [Weather App](https://github.com/shubham-ubale/weather-app) &nbsp;·&nbsp; *React · OpenWeather API*
+### 🌦️ [Weather App](https://github.com/shubham-ubale/Weather-Web-App) &nbsp;·&nbsp; *React · OpenWeather API*
 
 Real-time weather lookup by city with live API integration and clean responsive UI.
 
 ---
 
-### ✅ [Redux Todo App](https://github.com/shubham-ubale/redux-todo) &nbsp;·&nbsp; *React · Redux Toolkit*
+### ✅ [Redux Todo App](https://github.com/shubham-ubale/Redux-Todo-App) &nbsp;·&nbsp; *React · Redux Toolkit*
 
 Task management app built to master Redux state management patterns.
 
