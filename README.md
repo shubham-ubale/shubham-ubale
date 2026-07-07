@@ -93,18 +93,6 @@ Task management app built to master Redux state management patterns.
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubham-ubale&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-ubale&theme=tokyonight" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-ubale&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
